@@ -27,3 +27,7 @@
 - `styles/` — файлы стилей.
 - `fonts/` — шрифты.
 - `images/` — изображения и иконки.
+
+## Репозиторий
+
+https://github.com/daruaya/ono-tebe-nado-ad
